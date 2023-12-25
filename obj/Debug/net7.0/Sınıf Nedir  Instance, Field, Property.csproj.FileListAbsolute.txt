@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\bin\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\refint\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\Sınıf Nedir  Instance, Field, Property.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Sınıf Nedir  Instance, Field, Property\obj\Debug\net7.0\ref\Sınıf Nedir  Instance, Field, Property.dll
