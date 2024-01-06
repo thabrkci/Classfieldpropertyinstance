@@ -1,51 +1,49 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System;
 
-namespace Sınıf_Nedir__Instance__Field__Property;
-
-class Program
+namespace ShoppingPersonnelList
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("A&D Shopping Personel List");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("A&D Shopping Personnel List");
 
-        Shopping personellist = new Shopping();
-        personellist.name= "Taha";
-        personellist.surname= "BÖREKCİ";
-        personellist.personelno=351;
-        personellist.department="sales consultant";
-        personellist.shoppersonel();
-        Console.WriteLine("*****************************************************");
+            // Creating an instance of the Shopping class for the first personnel
+            Shopping personnelList1 = new Shopping();
+            personnelList1.Name = "Taha";
+            personnelList1.Surname = "BÖREKCİ";
+            personnelList1.PersonnelNo = 351;
+            personnelList1.Department = "Sales Consultant";
+            personnelList1.DisplayPersonnel();
 
-        Shopping personellist2 = new Shopping();
-        personellist2.name= "Barış";
-        personellist2.surname= "AKAN";
-        personellist.personelno=355;
-        personellist2.department="administrator";
-        personellist2.shoppersonel();
-        
+            Console.WriteLine("*****************************************************");
 
-
+            // Creating another instance of the Shopping class for the second personnel
+            Shopping personnelList2 = new Shopping();
+            personnelList2.Name = "Barış";
+            personnelList2.Surname = "AKAN";
+            personnelList2.PersonnelNo = 355;
+            personnelList2.Department = "Administrator";
+            personnelList2.DisplayPersonnel();
+        }
     }
-}
 
-class Shopping
-{
+    // Shopping class definition
+    class Shopping
+    {
+        // Properties for the shopping personnel
+        public string? Name { get; set; }
+        public string? Surname { get; set; }
+        public int PersonnelNo { get; set; }
+        public string? Department { get; set; }
 
-public string name;
-public string surname;
-public int personelno;
-public string department;
-
-public void shoppersonel()//Mağaza personel bilgilerini yazdıran metot
-{
-   Console.WriteLine("Personel name:{0}",name);
-   Console.WriteLine("Personel surname:{0}",surname);
-   Console.WriteLine("Personel PersonelNo:{0}",personelno);
-   Console.WriteLine("Personel department:{0}",department);
-
-}
-
-
-
-
+        // Method to display shopping personnel information
+        public void DisplayPersonnel()
+        {
+            Console.WriteLine("Personnel Name: {0}", Name);
+            Console.WriteLine("Personnel Surname: {0}", Surname);
+            Console.WriteLine("Personnel PersonnelNo: {0}", PersonnelNo);
+            Console.WriteLine("Personnel Department: {0}", Department);
+        }
+    }
 }
